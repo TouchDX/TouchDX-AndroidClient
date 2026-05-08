@@ -92,4 +92,4 @@ A: **我们强烈推荐您使用 ADB 有线连接方式来获得最佳体验。*
 
 ## 许可
 
-本项目采用 [GPL-3.0 License](LICENSE) 开源许可。
+本项目采用 [AGPL-3.0 License](LICENSE) 开源许可。
