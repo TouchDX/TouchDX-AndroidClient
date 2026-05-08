@@ -1,0 +1,11 @@
+Summary for classes-dex2jar.jar
+Decompiled with CFR 0.152
+
+
+com.fuckmai.remote.PathParser
+----------------------------
+
+extract(java.lang.String int com.fuckmai.remote.PathParser$ExtractFloatResult )
+  Unable to fully structure code
+addCommand(android.graphics.Path float[] char char float[] )
+  Unable to fully structure code
