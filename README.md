@@ -65,6 +65,14 @@ A: 请按照以下步骤进行排查：
 
 A: **必须使用 ADB 有线连接！** 音游对延迟的要求极其苛刻，Wi-Fi 的波动必然导致判定偏移。请确保你通过 USB 线连接并成功执行了 `adb reverse`。
 
+## 💖 赞助与支持
+
+如果您觉得 TouchDX 解决了您的痛点，带来了丝滑的打歌体验，欢迎通过**爱发电**支持作者：
+
+<a href="https://ifdian.net/a/YubaiNya" target="_blank">
+  <img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%E8%B5%9E%E5%8A%A9%E4%BD%9C%E8%80%85-946ce6?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="赞助作者">
+</a>
+
 ## 贡献
 
 我们欢迎任何形式的贡献！无论是提交 Bug 还是代码，请在本项目的主仓库中进行操作。
