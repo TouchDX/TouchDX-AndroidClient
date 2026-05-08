@@ -81,6 +81,10 @@ A: **必须使用 ADB 有线连接！** 音游对延迟的要求极其苛刻，W
   <img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%E8%B5%9E%E5%8A%A9%E4%BD%9C%E8%80%85-946ce6?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="赞助作者">
 </a>
 
+## 🚨 问题反馈 (Issues)
+
+**注意**：为了方便统一管理，**请将所有 Bug 反馈和功能建议统一提交至主仓库 [YubaiNya/TouchDX 的 Issues 页面](https://github.com/YubaiNya/TouchDX/issues)**。请不要在本仓库单独提交 Issue，否则可能会因为未及时看到而导致修复延误！
+
 ## 贡献
 
 我们欢迎任何形式的贡献！无论是提交 Bug 还是代码，请在本项目的主仓库中进行操作。
