@@ -149,9 +149,7 @@ public class OverlayService extends Service {
         this.touchView.setCustomAlpha(0.0f);
         this.touchView.setTouchRadius(prefs.getFloat("touchRadius", 22f));
         this.touchView.setUserScale(prefs.getFloat("userScale", 1.0f));
-        // Force reset offset to prevent missing UI after screen scale fix
-        prefs.edit().putFloat("offsetX", 0f).putFloat("offsetY", 0f).apply();
-        this.touchView.setOffset(0f, 0f);
+        this.touchView.setOffset(prefs.getFloat("offsetX", 0f), prefs.getFloat("offsetY", 0f));
         this.playingAlpha = prefs.getFloat("playingAlpha", 0.0f);
         
         SvgLoader.load(this.touchView);
